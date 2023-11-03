@@ -1,0 +1,56 @@
+{
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Online"
+    },
+    {
+      "id": 2,
+      "tipo": "Offline"
+    }
+  ],
+  "usuarios": [
+    {
+      "nome": "Leonardo",
+      "sobrenome": "babkabka",
+      "email": "leo@gmail.com",
+      "entrada": "14:15",
+      "msg": "cadastrou",
+      "id": 6,
+      "status": "Offline"
+    },
+    {
+      "nome": "joasinho",
+      "sobrenome": "nutela",
+      "email": "joasinhonutela@hotmail.com",
+      "entrada": "15:14",
+      "msg": "cadastrou",
+      "id": 7,
+      "status": "Online"
+    },
+    {
+      "nome": "joana",
+      "sobrenome": "dark",
+      "email": "joana@hotmail.com",
+      "entrada": "14:15",
+      "msg": "cadastrou",
+      "id": 8
+    },
+    {
+      "nome": "jota",
+      "sobrenome": "junior",
+      "email": "jota@hotmail.com",
+      "entrada": "12:00",
+      "msg": "cadastrou",
+      "id": 9
+    },
+    {
+      "nome": "felipe",
+      "sobrenome": "santo",
+      "email": "felipe@hotmail.com",
+      "entrada": "12:00",
+      "msg": "cadastrou",
+      "id": 10
+    }
+  ]
+}
